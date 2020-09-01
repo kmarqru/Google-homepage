@@ -1,0 +1,1 @@
+The purpose of this current project is to create a google homepage from scratch. I had the opportunity to dive further into creating and editing nav bars along with positioning content on the webpage. 
